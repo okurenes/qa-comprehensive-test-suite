@@ -299,6 +299,17 @@ Otomatik test çalıştırma:
 
 ## 📊 Raporlama
 
+### Test Execution Report
+
+![Test Report](screenshots/test-report.png)
+
+**Son Test Sonuçları:**
+- ✅ UI Tests: 33/33 PASSED (100%)
+- ✅ Login Tests: 7/7 PASSED
+- ✅ Products Tests: 9/9 PASSED
+- ✅ Cart Tests: 8/8 PASSED
+- ✅ Checkout Tests: 9/9 PASSED
+
 ### HTML Reports
 
 Testler çalıştıktan sonra `reports/` klasöründe HTML raporları oluşturulur:
