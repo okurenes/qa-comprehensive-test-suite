@@ -1,0 +1,25 @@
+# UI Testing
+selenium==4.16.0
+webdriver-manager==4.0.1
+
+# API Testing
+requests==2.31.0
+jsonschema==4.20.0
+
+# Database Testing
+psycopg2-binary==2.9.9
+pymysql==1.1.0
+
+# Performance Testing
+locust==2.20.0
+
+# Test Framework & Reporting
+pytest==7.4.3
+pytest-html==4.1.1
+pytest-xdist==3.5.0
+allure-pytest==2.13.2
+
+# Utilities
+python-dotenv==1.0.0
+faker==22.0.0
+pyyaml==6.0.1
