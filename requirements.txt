@@ -23,3 +23,4 @@ allure-pytest==2.13.2
 python-dotenv==1.0.0
 faker==22.0.0
 pyyaml==6.0.1
+responses==0.25.3
